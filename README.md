@@ -35,7 +35,7 @@ Este contenedor centraliza todos los **repositorios fundamentales** para experim
 ```bash
 git clone https://github.com/mmolina-uxploit/neuro-fundations.git
 ```
-- abri swift-design-contracts.playground
+- abrí swift-design-contracts.playground
 
 ---
 
