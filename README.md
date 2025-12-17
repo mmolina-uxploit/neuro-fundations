@@ -30,11 +30,14 @@ Este contenedor centraliza todos los **repositorios fundamentales** para experim
 - Facilitar el **aprendizaje y trazabilidad** sobre qué problemas ya fueron resueltos por el sistema.
 
 ---
+📚 Cómo usar este contenedor
 
-## 🔧 Estructura recomendada
-
-```plaintext
-[00] - neuro-foundations
-├─ swift-design-contracts
-└─ └─ decision-logs-ios
+```bash
+git clone https://github.com/mmolina-uxploit/neuro-fundations.git
 ```
+- abri swift-design-contracts.playground
+
+---
+
+
+
