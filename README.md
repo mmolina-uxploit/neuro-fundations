@@ -1,6 +1,7 @@
 # neuro-foundations
 
 ## Project Overview
+
 **neuro-foundations** es el núcleo neural de decisiones técnicas y seguridad de tipos para sistemas iOS. Este documento consolida contratos de diseño y fundaciones del lenguaje que transforman reglas de negocio en invariantes garantizadas por el compilador de Swift, eliminando estados inválidos antes de la ejecución.
 ---
 
